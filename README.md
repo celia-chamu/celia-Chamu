@@ -3,16 +3,15 @@
 
 Hi my name is Celia,
 
-I'm a first year Computer Science and Engineering at **University of California, Irvine** class of 2025
+I'm a second year Software Engineering at **University of California, Irvine** class of 2025
 
-However I am looking into changing my major to Software Engineering.
 
 I'm open to new experiences either working front end or back end!
 
 
 # What I'm up to:
 
-- I'm an incomming intern at ServiceNow Summer 22'
+- I'm an incomming intern at ServiceNow Summer 23'
 -  Apart of Undergraduate Research and Oppportunites Program (UROP)
 - UCSD CREATE Research team on expanding more CS opportunites to students in low income areas.
 

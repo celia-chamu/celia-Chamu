@@ -1,5 +1,5 @@
 # Welcome!
-<img width="922" alt="Screen Shot 2022-04-11 at 9 40 36 PM" src="https://user-images.githubusercontent.com/103477824/162882028-88fd62b3-5c90-4a43-a92b-a4503248e4a1.png">
+
 
 Hi my name is Celia,
 

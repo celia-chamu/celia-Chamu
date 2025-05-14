@@ -2,8 +2,8 @@
 
 Hi my name is Celia,
 
-I'm a fourth year Software Engineering at **University of California, Irvine** class of 2025
-I'm open to new experiences either working front end or back end!
+I'm a fourth year Software Engineering at **University of California, Irvine** class of 2025. 
+I'm open to new experiences either working front end or back end.
 I love to camp, and go hiking being out in nature, especially love stargazing!
 
 # What I'm up to:
